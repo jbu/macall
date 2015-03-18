@@ -1,1 +1,1 @@
-macall
+A Mobile Adaptive CALL application. This is a package for training Japanese speakers to discriminate between (and therefore pronounce) the /r/ and /l/ sounds, and is implemented in java for deployment on mobile devices. It is the result of a research project funded by the EPSRC (Grant #GR/S55095/02). For more information see the Mac homepage http://people.brunel.ac.uk/~hsstmmu/mac_project.htm.
